@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #202022;
+  font-size: 16px;
+  color: white;
+}
+button{
+  background-color: #E08594;
+  color: white;
+  border: none;
+  min-width: 100px;
+  min-height: 30px;
+  outline: none;
+  padding: 4px, 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+  transition: background-color 0.4s ease-in-out;
+}
+
+button:hover{
+  background-color: #c77683;
+ 
+}
